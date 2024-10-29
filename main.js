@@ -6,7 +6,7 @@ class Battleship {
     };
 
     hit(){
-        this.hits = this.hits++;
+        this.hits++;
     };
 
     isSunk(){
